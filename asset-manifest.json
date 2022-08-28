@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.06ffec87.css",
+    "main.js": "/static/js/main.1f8689eb.js",
+    "static/media/xiaomi mi 11 ultra banner.jpg": "/static/media/xiaomi mi 11 ultra banner.e545cd6349b5f7bfb267.jpg",
+    "static/media/samsung s21 ultra banner.jpg": "/static/media/samsung s21 ultra banner.f084d755329892b96fff.jpg",
+    "static/media/second-banner-0.jpg": "/static/media/second-banner-0.cc458efd5cd0e4870625.jpg",
+    "static/media/IRANSans-Light-web.ttf": "/static/media/IRANSans-Light-web.71f8e92a06de4f9a6039.ttf",
+    "static/media/IRANSans-web.ttf": "/static/media/IRANSans-web.9ad1e88d2a69f7845668.ttf",
+    "static/media/IRANSans-Bold-web.ttf": "/static/media/IRANSans-Bold-web.ac55ea1ecefe68435f37.ttf",
+    "static/media/IRANSans-Medium-web.ttf": "/static/media/IRANSans-Medium-web.3dc441d156b7f822c46c.ttf",
+    "static/media/IRANSans-UltraLight-web.ttf": "/static/media/IRANSans-UltraLight-web.dd190eea88c669bffb12.ttf",
+    "static/media/huawei p40 banner.jpg": "/static/media/huawei p40 banner.3c61176591219ef11643.jpg",
+    "static/media/second-banner-1.jpg": "/static/media/second-banner-1.f06fe25b77d1fe7bac55.jpg",
+    "static/media/IRANSans-Light-web.woff": "/static/media/IRANSans-Light-web.0057181b7ea25b0bbc51.woff",
+    "static/media/IRANSans-UltraLight-web.woff": "/static/media/IRANSans-UltraLight-web.ae752aef5618dc55c0b1.woff",
+    "static/media/IRANSans-web.woff": "/static/media/IRANSans-web.ec7e9c88f5b3a1af43a7.woff",
+    "static/media/IRANSans-Bold-web.woff": "/static/media/IRANSans-Bold-web.955d345afd75e29acf58.woff",
+    "static/media/IRANSans-Medium-web.woff": "/static/media/IRANSans-Medium-web.2e0a8cc4201444f12ead.woff",
+    "static/media/IRANSans-Light-web.eot": "/static/media/IRANSans-Light-web.9f1489d9f1456a7e8836.eot",
+    "static/media/IRANSans-UltraLight-web.eot": "/static/media/IRANSans-UltraLight-web.4cca5879a68356954a0a.eot",
+    "static/media/logo.png": "/static/media/logo.fd8a7d62a5bd3ea77a0d.png",
+    "static/media/IRANSans-web.eot": "/static/media/IRANSans-web.0a6e4bbf449cdb08b781.eot",
+    "static/media/IRANSans-Bold-web.eot": "/static/media/IRANSans-Bold-web.3e2c7e98b62e7800bd63.eot",
+    "static/media/IRANSans-Medium-web.eot": "/static/media/IRANSans-Medium-web.5e7d6844cacde4e33514.eot",
+    "static/media/IRANSans-Light-web.woff2": "/static/media/IRANSans-Light-web.449497382fb8cac671e7.woff2",
+    "static/media/IRANSans-UltraLight-web.woff2": "/static/media/IRANSans-UltraLight-web.09080c2792453f74a926.woff2",
+    "static/media/IRANSans-web.woff2": "/static/media/IRANSans-web.23cd9db191f0da3d474a.woff2",
+    "static/media/IRANSans-Bold-web.woff2": "/static/media/IRANSans-Bold-web.3bd2766ae1257b5afe3d.woff2",
+    "static/media/IRANSans-Medium-web.woff2": "/static/media/IRANSans-Medium-web.a06ef2cd32bddeaf44c3.woff2",
+    "index.html": "/index.html",
+    "main.06ffec87.css.map": "/static/css/main.06ffec87.css.map",
+    "main.1f8689eb.js.map": "/static/js/main.1f8689eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.06ffec87.css",
+    "static/js/main.1f8689eb.js"
+  ]
+}
